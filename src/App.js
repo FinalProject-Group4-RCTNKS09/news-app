@@ -1,4 +1,4 @@
-import ApiItems from "./items/ApiItems";
+import ApiItems from "./items/apiItems";
 
 function App() {
   return (
